@@ -24,7 +24,7 @@ Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jo
 
 Você pode ver uma demosnstração do jogo:
 
-- [Video](https://github.com/leticiaveigacs/ponggame/issues/1#issue-2273890176).
+- [Video](https://github.com/leticiaveigacs/ponggame/issues/1#issue-2273890176)
 
 
 ###  Descrição Técnica
