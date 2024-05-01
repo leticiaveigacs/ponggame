@@ -15,7 +15,8 @@ Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jo
 
 1. Clone este repositório para o seu ambiente local.
    ```
-   git clone https://github.com/seu_usuario/pong-game.git
+   git https://github.com/leticiaveigacs/ponggame.git
+   
    ```
 2. Abra o arquivo `index.html` em seu navegador da web.
 
