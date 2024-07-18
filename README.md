@@ -1,4 +1,4 @@
-## ** 🏓Pong Game  🏓**
+## ** 🏓Pong Game  🏓**   
 
 
 Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jogo inclui dois jogadores (um humano e um computador) e um placar para acompanhar a pontuação.
