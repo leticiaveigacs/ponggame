@@ -18,7 +18,7 @@ Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jo
    git https://github.com/leticiaveigacs/ponggame.git
    
    ```
-2. Abra o arquivo `index.html` em seu navegador da web.
+2. Abra o arquivo `index.html` em seu navegador da web. 
 
 ### Video
 
