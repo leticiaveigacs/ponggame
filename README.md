@@ -11,6 +11,8 @@ Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jo
 - Cada vez que a bola passa pelo jogador adversário, você marca um ponto.
 - O jogo continua até que um dos jogadores alcance a pontuação máxima definida.
 
+   [Click](https://leticiaveigacs.github.io/ponggame/) 
+
 ### Como Executar
 
 1. Clone este repositório para o seu ambiente local.
