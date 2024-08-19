@@ -5,7 +5,7 @@ Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jo
 
 ### Como Jogar
 
-- Use as teclas W e S para controlar o jogador à esquerda (cima e baixo, respectivamente).
+- Use as teclas **W e S**  para controlar o jogador à esquerda (cima e baixo, respectivamente).
 - O jogador à direita é controlado automaticamente pelo computador.
 - O objetivo é evitar que a bola passe pelo seu lado do campo.
 - Cada vez que a bola passa pelo jogador adversário, você marca um ponto.
