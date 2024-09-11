@@ -1,38 +1,36 @@
 ##  🏓Pong Game  🏓   
 
+This is a simple Pong game implemented using HTML, CSS and JavaScript. The game includes two players (a human and a computer) and a scoreboard to keep track of the score.
 
-Este é um simples jogo de Pong implementado usando HTML, CSS e JavaScript. O jogo inclui dois jogadores (um humano e um computador) e um placar para acompanhar a pontuação.
+###   How to play the game
 
-### Como Jogar
-
-- Use as teclas **W e S**  para controlar o jogador à esquerda (cima e baixo, respectivamente).
-- O jogador à direita é controlado automaticamente pelo computador.
-- O objetivo é evitar que a bola passe pelo seu lado do campo.
-- Cada vez que a bola passa pelo jogador adversário, você marca um ponto.
-- O jogo continua até que um dos jogadores alcance a pontuação máxima definida.
+- Use the **W and S** keys to control the player on the left (up and down respectively).
+- The player on the right is controlled automatically by the computer.
+- The aim is to prevent the ball from passing through their side of the pitch.
+- Each time the ball passes the opposing player, you score a point.
+- The game continues until one of the players reaches the maximum score.
 
 -   [Click](https://leticiaveigacs.github.io/ponggame/) 
 
-### Como Executar
+### How to play
 
-1. Clone este repositório para o seu ambiente local.
+1. Clone this repository to your local environment.
    ```
    git https://github.com/leticiaveigacs/ponggame.git
    
    ```
-2. Abra o arquivo `index.html` em seu navegador da web. 
-
+2. Open the `index.html` file in your web browser.
+   
 ### Video
 
-Você pode ver uma demosnstração do jogo:
+You can see a demo of the game:
 
-- [Assista ao vídeo](https://github.com/leticiaveigacs/ponggame/issues/2#issue-2287668616) 
+- [Watch video](https://github.com/leticiaveigacs/ponggame/issues/2#issue-2287668616) 
 
+###  Technical Description
 
+This Pong Game project is implemented using the following technologies: HTML, CSS, JavaScript. Here are some of the functionalities implemented in JavaScript: ball movement, player control, computer logic, scoreboard.
 
-###  Descrição Técnica
-
-Este projeto de Pong Game é implementado usando as seguintes tecnologias: HTML, CSS, JavaScript. Aqui estão algumas das funcionalidades implementadas em JavaScript: moviemnto da bola, controle dosjogadores, lógica do computador, placar.
 
 
 
